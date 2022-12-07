@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 
+// Imports
 const theme = createTheme();
 const browserRouter = createBrowserRouter(routes);
 
